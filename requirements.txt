@@ -1,0 +1,14 @@
+datasets
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+sentence-transformers<3.0
+torch
+transformers
+umap-learn
+pymupdf
+streamlit
